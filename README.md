@@ -74,10 +74,8 @@
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anusha-kr01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anusha-kr01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=anusha-kr01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" />
 </div>
