@@ -31,21 +31,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="center">Tech by trade, hacker by instinct, creator by choice 👾📡</p>
 
-<p align="left">
-  I'm Anusha K R from India 🇮🇳<br><br>
-  - 🔭 I’m exploring full-stack, cloud, and cybersecurity<br>
-  - 🧠 Currently diving deeper into Kubernetes, Docker, OSINT & cloud platforms<br>
-  - 🎥 I create tech content on YouTube at @Anusha-404notfound<br>
-  - ⚡ Fun fact: I love playing around with OSINT tools and hacking challenges!
-</p>
 
 ###
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
@@ -71,7 +64,7 @@
 
 ###
 
-<h3 align="left">🔥 GitHub Stats</h3>
+<h3 align="center">🔥 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anusha-kr01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
