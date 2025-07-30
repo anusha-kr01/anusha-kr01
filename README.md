@@ -31,7 +31,7 @@
 
 ###
 
-<p align="center">Tech by trade, hacker by instinct, creator by choice 👾📡</p>
+<p align="center">Im a tech freak and i love to do cool stuffs using technology 👾📡</p>
 
 
 ###
